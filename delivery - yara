@@ -1,0 +1,5 @@
+def delivery_cost(postcode):#
+  print(postcode[0]
+
+        postcode=input("")
+        delivery_cost=("postcode)
