@@ -8,3 +8,19 @@ while True:
     items_to_buy = start_shop()
 
     # blah blah 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
